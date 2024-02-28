@@ -1,0 +1,10 @@
+1,Abierto
+2,Reservado
+3,Introversión
+4,Extraversión
+5,Seguro
+6,Dubitativo
+7,Sumiso
+8,Dominante
+9,Relajado
+10,Excitable

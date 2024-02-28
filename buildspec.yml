@@ -1,0 +1,29 @@
+version: 0.2
+
+env:
+  variables:
+    APP_SETTINGS_MODULE: "config.StagingConfig"
+phases:
+  pre_build:
+    commands:
+      - pip install --upgrade pip
+      - pip install -r requirements.txt
+      - python -m unittest perfilesTest.py
+      - coverage run -m unittest perfilesTest -v
+      - coverage report -m
+      - cov=$(coverage json -q -o /dev/stdout | jq .totals.percent_covered)
+      - echo $cov
+      - covent=${cov%.*}
+      - mincov=10
+      - |-
+          if [ "$covent" -lt "$mincov" ]; then
+            exit 30;
+          fi
+  post_build:
+    commands:
+      - '[ ${CODEBUILD_BUILD_SUCCEEDING:-0} -eq 1 ] || exit 1'
+      - echo "Build succeeded..."
+artifacts:
+  files:
+    - '**/*'
+

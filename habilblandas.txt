@@ -1,0 +1,24 @@
+1:La comunicación  
+2:La resolución de problemas 
+3:La autogestión
+4:Curiosidad
+5:Trabajo en equipo
+6:Ser capaz de encontrar el punto intermedio entre el pragmatismo y el perfeccionismo. 
+7:Ser capaz de diferenciar entre un pequeño éxito y un gran triunfo. 
+8:Saber aceptar soluciones alternativas a las que venías trabajando. 
+9:Tener una visión de negocio estratégica
+10:Saber transmitir ideas técnicas a personas sin estos conocimientos
+11:Enseñar ideas técnicas a otros desarrolladores.
+12:Simplificar los problemas en lugar de complicarlos. 
+13:Tener compromiso e implicación. 
+14:Ser proactivo, tener iniciativa y ganas de aprender para ir mejorando día a día.
+15:Estar motivado, ser eficiente y creativo.
+16:Ser perseverante, tolerar la frustración.
+17:Que te apasione el código más allá de tu trabajo.
+18:Tener capacidad de adaptación, lo que hoy sirve, mañana puede quedarse obsoleto.
+19:Ser un programador Full Stack.
+20:Tener una base sólida en algún lenguaje orientado a objetos.  
+21:Formación complementaria.
+22:Ser capaz de aprender nuevas tecnologías rápidamente.
+23:Experiencia en el extranjero y movilidad geográfica.
+24:Dominar un segundo idioma.

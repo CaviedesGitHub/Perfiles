@@ -1,0 +1,56 @@
+1,JavaScript
+2,Python
+3,Java
+4,Go
+5,C++
+6,Ruby
+7,PHP
+8,TypeScript
+9,C#
+10,C
+11,Shell
+12,Scala
+13,Swift
+14,Rust
+15,Kotlin
+16,Objetive-C
+17,Groovy
+18,Elixir
+19,Lua
+20,DM
+21,Perl
+22,Dart
+23,Clojure
+24,PowerShell
+25,CoffeeScript
+26,Haskell
+27,OCaml
+28,R
+29,Emacs Lisp
+30,Vim script
+31,Jsonnet
+32,Erlang
+33,Puppet
+34,Julia
+35,Smalltalk
+36,Matlab
+37,WebAssembly
+38,F#
+39,Visual Basic
+40,Apex
+41,ABAP
+42,Vala
+43,Nix
+44,Crystal
+45,Roff
+46,Perl 6
+47,FreeMarker
+48,PureScript
+49,Objective-C++
+50,Jira
+51,Git
+52,Jenkins
+53,EBS AWS
+54,RDS AWS
+55,S3
+56,EC2
